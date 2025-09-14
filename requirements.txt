@@ -1,0 +1,9 @@
+python-dotenv
+pandas
+numpy
+
+pymongo
+certifi
+
+## -e .  ## here this means  it refering to setup.py 
+## this you will completely add at the last 
