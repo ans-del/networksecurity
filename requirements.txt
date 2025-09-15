@@ -1,12 +1,10 @@
 python-dotenv
 pandas
 numpy
-
 pymongo
 certifi
-
 pymongo[srv]==3.6
-pymongo
+scikit-learn
 
 ## -e .  ## here this means  it refering to setup.py 
 ## this you will completely add at the last 
