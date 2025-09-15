@@ -5,5 +5,8 @@ numpy
 pymongo
 certifi
 
+pymongo[srv]==3.6
+pymongo
+
 ## -e .  ## here this means  it refering to setup.py 
 ## this you will completely add at the last 
