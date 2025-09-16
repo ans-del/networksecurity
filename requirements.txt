@@ -5,6 +5,8 @@ pymongo
 certifi
 pymongo[srv]==3.6
 scikit-learn
+dill
+pyaml
 
 ## -e .  ## here this means  it refering to setup.py 
 ## this you will completely add at the last 
